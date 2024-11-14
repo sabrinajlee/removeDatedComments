@@ -1,5 +1,5 @@
 # removeDatedComments
-This Python script removes comments containing dates in the format dd/dd/dddd from a given input file and writes the filtered content to an output file. It supports both single-line (//) and multi-line (/* */) comments.
+This Python script removes comments containing dates in the format dd/dd/dddd from a given input file and writes the filtered content to an output file. It supports both single-line (//) and multi-line (/* */) comments. Createed for an assignment exploring parsing in programming languages.
 
 ## Features
 Single-line comments: Removes lines starting with // if they contain a date.
